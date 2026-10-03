@@ -25,7 +25,7 @@ The installed EPROM type is selected using jumpers **JP6** and **JP7**.
 
 **JP6 and JP7 must never be installed at the same time!**
 
-| EPROM | Capacity | JP6 (`≤2MB`) **160 800** | JP7 (`4MB`) **322** |
+| EPROM | Capacity | JP6 (`≤2MB`) **"160 800"** | JP7 (`4MB`) **"322"** |
 |---|---:|---|---|
 | 27C800 | 1 MB | installed | open |
 | 27C160 | 2 MB | installed | open |
