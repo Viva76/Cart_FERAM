@@ -31,9 +31,9 @@ The installed EPROM type is selected using jumpers **JP6** and **JP7**.
 | 27C160 | 2 MB | installed | open |
 | 27C322 | 4 MB | open | installed |
 
-JP6 connects EPROM **pin 32** to +5 V and is marked **`160 800`** on the PCB.
+JP6 connects EPROM **pin 32** to +5 V and is marked **"160 800"** on the PCB.
 
-JP7 connects EPROM **pin 32** to the **H20** line and is marked **`322`** on the PCB.
+JP7 connects EPROM **pin 32** to the **H20** line and is marked **"322"** on the PCB.
 
 ---
 
@@ -119,8 +119,8 @@ For a cartridge configuration without FRAM:
 | Component | Configuration |
 |---|---|
 | EPROM | 27C322 |
-| JP6 **800 160** | open |
-| JP7 **322** | installed |
+| JP6 **"160 800"** | open |
+| JP7 **"322"** | installed |
 | U3 74HC393 | do not install |
 | JP3–JP5 | BUS |
 | F1808B | do not install |
@@ -133,8 +133,8 @@ For a cartridge configuration without FRAM:
 | Component | Configuration |
 |---|---|
 | EPROM | 27C322 |
-| JP6 **800 160** | open |
-| JP7 **322** | installed |
+| JP6 **"160 800"** | open |
+| JP7 **"322"** | installed |
 | U3 74HC393 | do not install |
 | JP3–JP5 | BUS |
 | U5 F1808B | install |
@@ -148,8 +148,8 @@ For a cartridge configuration without FRAM:
 | Component | Configuration |
 |---|---|
 | EPROM | 27C322 |
-| JP6 **800 160** | open |
-| JP7 **322** | installed |
+| JP6 **"160 800"** | open |
+| JP7 **"322"** | installed |
 | U3 74HC393 | install |
 | JP3 (A20) | REG |
 | JP4 (A19) | REG |
@@ -164,8 +164,8 @@ For a cartridge configuration without FRAM:
 | Component | Configuration |
 |---|---|
 | EPROM | 27C800 / 27C160 |
-| JP6 **800 160** | installed |
-| JP7 **322** | open |
+| JP6 **"160 800"** | installed |
+| JP7 **"322"** | open |
 | U3 74HC393 | do not install |
 | JP3–JP5 | BUS |
 | U5 F1808B | install |
