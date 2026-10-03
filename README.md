@@ -207,9 +207,9 @@ The C2 and C3 capacitor footprints support both:
 
 # 7. Project Files and Documentation
 
-- 📄 **[Cartridge schematic — PDF](https://github.com/Viva76/Cart_FERAM/docs/schematic.PDF)**
-- 📋 **[Bill of Materials (BOM)](https://github.com/Viva76/Cart_FERAM/docs/ibom.html)**
-- 📦 **[Gerber files for PCB manufacturing](https://github.com/Viva76/Cart_FERAM/Gerber/Cart_FeRAM-gerber.rar)**
+- 📄 **[Cartridge schematic — PDF](https://github.com/Viva76/Cart_FERAM/tree/main/docs/schematic.PDF)**
+- 📋 **[Bill of Materials (BOM)](https://github.com/Viva76/Cart_FERAM/tree/main/docs/ibom.html)**
+- 📦 **[Gerber files for PCB manufacturing](https://github.com/Viva76/Cart_FERAM/tree/main/Gerber/Cart_FeRAM-gerber.rar)**
 
 ![Cartridge PCB — front view](https://github.com/Viva76/Cart_FERAM/blob/main/Images/front.jpg)
 
