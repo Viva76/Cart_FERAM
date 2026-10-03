@@ -200,8 +200,8 @@ JP1 **ROM SIZE** определяет, как формируется один и
 
 # 7. Файлы проекта и документация
 
-* 📄 **[Схема картриджа в формате PDF] (https://github.com/Viva76/Card_FERAM/blob/main/docs/schematic.PDF)**
-* 📋 **[Спецификация компонентов (BOM)] (https://Viva76.github.com/Card_FERAM/docs/ibom.html)**
+* 📄 **[Схема картриджа в формате PDF](https://github.com/Viva76/Card_FERAM/blob/main/docs/schematic.PDF)**
+* 📋 **[Спецификация компонентов (BOM)](https://Viva76.github.com/Card_FERAM/docs/ibom.html)**
 * 📦 **[Gerber-файлы для заказа печатной платы](https://github.com/Viva76/Card_FERAM/blob/main/Gerber/Cart_FeRAM-gerber.rar)**
 
 ![Плата картриджа front view](https://github.com/Viva76/Cart_FERAM/blob/main/Images/front.jpg)
