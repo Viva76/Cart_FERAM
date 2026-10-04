@@ -169,8 +169,8 @@ For a cartridge configuration without FRAM:
 | U3 74HC393 | do not install |
 | JP3–JP5 | BUS |
 | U5 F1808B | install |
-| U2 74HC74 | install |
-| U1 74HC139 | do not install |
+| U2 74HC74 | do not install |
+| U1 74HC139 | install |
 | JP1 **ROM SIZE** | 2–3 `≤2MB` |
 | JP2 **No FRAM** | open |
 
